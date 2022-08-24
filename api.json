@@ -1,0 +1,115 @@
+[
+  {
+    "categoryTitle": "Cris Cabelos",
+    "address": "Rua Joaquina Lemos 33, Jd. Nova Terra, Campinas-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/beauty-salon-gadf87b95b_640.jpg?raw=true",
+    "note": 5.0,
+    "evaluation": 6,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/christmas-g08da46544_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/girl-g4478f31d5_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/haircut-g9d2ce7032_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/woman-g11f57fb1a_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/1/woman-g1fe2efb0d_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-gc0b79abc1_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Mary Hair",
+    "address": "Rua José Paulinio 329, Centro, Campinas-SP ",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hairdresser-g87853aa7d_640.jpg?raw=true",
+    "note": 4.9,
+    "evaluation": 10,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hairdresser-g5cf9d3e74_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-gfe4743af7_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-gefb16fd58_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-gc0b79abc1_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-g72f509b1e_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-g6bbb8d579_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-g654971f86_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-g588a4b2c5_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-g4f65c0bc1_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Studio Aspen Maquiagem",
+    "address": "Rua Dr. João Paulo 68, Jd. America, Paulinia-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/beauty-salon-g617f5aee8_640.jpg?raw=true",
+    "note": 4.5,
+    "evaluation": 13,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/estetica-gc40a8a76a_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/facial-treatment-gc3f2336c2_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/beautician-gafff55345_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/makeup-brushes-g21650cea1_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/woman-g1ab730232_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/woman-g61edd2fa7_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Wesley Cabelos",
+    "address": "Av. Mario Cirqueira 45 , Vila Martins, Paulinia-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barbershop-ga8528064a_640.jpg?raw=true",
+    "note": 5.0,
+    "evaluation": 10,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barber-gcfb1b1dff_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/haircut-g1d4cf3d49_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barber-gac6cc8aca_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barber-gf198ce3f3_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barbershop-g28c8fbdd7_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/haircut-g4c622d38b_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/hairdresser-g37377910d_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/hairdresser-g14c4aa241_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Pet Cat ",
+    "address": "Rua João Erbolato 652 , Castelo, Campinas-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-ge590bddbb_640.jpg?raw=true",
+    "note": 4.6,
+    "evaluation": 9,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-gf35fd2387_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-gb61897b33_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-gb3606a83d_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-g4090d210a_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-g1bb89d905_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/1/grooming-g17c78bb28_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Pet Cão Escaldado",
+    "address": "Rua Tereza Paulino 120, Vila Mariana, Valinhos-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g4e4f2fd8f_640.jpg?raw=true",
+    "note": 5.0,
+    "evaluation": 11,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g83da06ef5_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g872141122_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-gbbe5164cd_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-gcfe3cb596_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-gd73839c12_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-ge0f93a7a5_640.jpg?raw=true"}
+    ]
+  },
+  {
+    "categoryTitle": "Pet Fofura",
+    "address": "Rua Antônio Lemos 320, Vila Jorgina, Vinhedo-SP",
+    "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/grooming-gf6ed92e25_640.jpg?raw=true",
+    "note": 4.1,
+    "evaluation": 5,
+    "categoryItemList": [
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/grooming-g543ba4064_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/grooming-ga2d9386e4_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/grooming-gdfaa4c7e9_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/dog-g5c6a5ca09_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/dog-g6de774993_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/dog-gde9072a78_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/dog-ge269d1b64_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/nail-clipping-g51e16a36f_640.jpg?raw=true"},
+      { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/3/grooming-g15eafb4c0_640.jpg?raw=true"}
+    ]
+  }
+]
