@@ -19,7 +19,7 @@
     "address": "Rua José Paulinio 329, Centro, Campinas-SP ",
     "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hairdresser-g87853aa7d_640.jpg?raw=true",
     "note": 4.9,
-    "evaluation": 10,
+    "evaluation": 8,
     "categoryItemList": [
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hairdresser-g5cf9d3e74_640.jpg?raw=true"},
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/feminino/2/hair-gfe4743af7_640.jpg?raw=true"},
@@ -37,7 +37,7 @@
     "address": "Rua Dr. João Paulo 68, Jd. America, Paulinia-SP",
     "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/beauty-salon-g617f5aee8_640.jpg?raw=true",
     "note": 4.5,
-    "evaluation": 13,
+    "evaluation": 7,
     "categoryItemList": [
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/estetica-gc40a8a76a_640.jpg?raw=true"},
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/maquiagem/facial-treatment-gc3f2336c2_640.jpg?raw=true"},
@@ -52,7 +52,7 @@
     "address": "Av. Mario Cirqueira 45 , Vila Martins, Paulinia-SP",
     "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barbershop-ga8528064a_640.jpg?raw=true",
     "note": 5.0,
-    "evaluation": 10,
+    "evaluation": 9,
     "categoryItemList": [
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/barber-gcfb1b1dff_640.jpg?raw=true"},
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/masculino/haircut-g1d4cf3d49_640.jpg?raw=true"},
@@ -84,7 +84,7 @@
     "address": "Rua Tereza Paulino 120, Vila Mariana, Valinhos-SP",
     "image": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g4e4f2fd8f_640.jpg?raw=true",
     "note": 5.0,
-    "evaluation": 11,
+    "evaluation": 7,
     "categoryItemList": [
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g83da06ef5_640.jpg?raw=true"},
       { "imageUrl": "https://github.com/thibbatista/Api_Fake_CardView/blob/main/pet/2/dog-g872141122_640.jpg?raw=true"},
